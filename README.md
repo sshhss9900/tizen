@@ -1,6 +1,6 @@
 # tizen
 
 *typo
- *
-*coding styll**
+ *d
+*coding styil*d*d
 *build
